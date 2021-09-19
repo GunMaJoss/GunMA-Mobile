@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:gunma/HomePage/home_screen_backup.dart';
+import 'package:gunma/HomePage/home_screen.dart';
+// import 'package:gunma/HomePage/home_screen_backup.dart';
 import 'package:gunma/Login/components/background.dart';
 import 'package:gunma/SignUp/signup_screen.dart';
 import 'package:gunma/components/already_have_an_account_check.dart';
