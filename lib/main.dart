@@ -12,9 +12,9 @@ void main() {
     ),
     // debugShowCheckedModeBanner: false,
     title: 'Splash Screen',
-    home: HomePageScreen(),
+    // home: HomePageScreen(),
     // home: HomePage(),
-    // home: SplashPage(),
+    home: SplashPage(),
     // home: Myapp(),s
   ));
 }
