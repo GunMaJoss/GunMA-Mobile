@@ -10,30 +10,15 @@ class Background extends StatelessWidget {
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
     return Container(
-      width: double.infinity,
-      height: size.height,
+      width: 420,
+      height: 380,
       child: Stack(
-        alignment: Alignment.center,
         children: <Widget>[
           Positioned(
-            top: 0,           
+            right: 0,          
             child: 
-            Image.asset('assets/images/Background_home.png'),
-            // width: size.width * 0.50,
+            Image.asset('assets/images/gunma_bg_homepage.png'),
             ),
-          // Positioned(
-          //   top: 150,
-          //   child: 
-          //   Image.asset('images/logo.png'),
-          //   width: size.width * 0.45,
-          //   ),
-          // Positioned(
-          //   bottom: -40,
-          //   left: -60,
-          //   child: 
-          //   Image.asset('images/Vector 38.png'),
-          //   width: size.width * 0.5,
-          //   ),
             child,
         ],
       ),

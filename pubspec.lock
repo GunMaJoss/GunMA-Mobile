@@ -85,6 +85,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "6.1.2"
+<<<<<<< Updated upstream
   flappy_search_bar:
     dependency: "direct main"
     description:
@@ -99,6 +100,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.3.0"
+=======
+>>>>>>> Stashed changes
   flutter:
     dependency: "direct main"
     description: flutter

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gunma/HomePage/home_screen_backup.dart';
+// import 'package:gunma/HomePage/home_screen_backup.dart';
 import 'package:gunma/Login/login_screen.dart';
 import 'package:gunma/Splashscreen/splashscreen/background.dart';
 import 'package:gunma/components/left_rounded_button.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gunma/SplashScreen/splashscreen/body%20copy.dart';
+// import 'package:gunma/SplashScreen/splashscreen/body%20copy.dart';
 import 'package:gunma/SplashScreen/splashscreen/body.dart';
 
 class SplashPage extends StatelessWidget {
