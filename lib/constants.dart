@@ -10,6 +10,8 @@ const lightWhite = Color(0xffFFFFFF);
 const bGrey = Color(0xffC0C0C0);
 const kBluerPrimary = Color (0xff471AFB);
 const bBlack = Color (0xff999999);
+const bDark = Color(0xff000000);
+const bDarkText = Color(0xff3B3230);
 const kAnimationDuration = Duration(milliseconds: 100);
 const kPurple = Color (0xff471AFB);
 

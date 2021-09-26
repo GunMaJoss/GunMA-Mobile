@@ -34,7 +34,7 @@ class Body extends StatelessWidget {
           
         SizedBox(height: 10),    
         Text(
-            "  Stop for wasting your time and start to think about \n  your future", 
+            "    Stop for wasting your time and start to think about \n    your future", 
             style: TextStyle(
               fontFamily: 'Exo',
               fontSize: 15

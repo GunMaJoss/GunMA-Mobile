@@ -85,35 +85,11 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "6.1.2"
-<<<<<<< Updated upstream
-  flappy_search_bar:
-    dependency: "direct main"
-    description:
-      name: flappy_search_bar
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.4.1"
-  floating_search_bar:
-    dependency: "direct main"
-    description:
-      name: floating_search_bar
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.3.0"
-=======
->>>>>>> Stashed changes
   flutter:
     dependency: "direct main"
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_staggered_grid_view:
-    dependency: transitive
-    description:
-      name: flutter_staggered_grid_view
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.3.4"
   flutter_svg:
     dependency: "direct main"
     description:
@@ -154,13 +130,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.12.10"
-  material_floating_search_bar:
-    dependency: "direct main"
-    description:
-      name: material_floating_search_bar
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.1.7"
   meta:
     dependency: transitive
     description:
