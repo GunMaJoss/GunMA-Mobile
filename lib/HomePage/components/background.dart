@@ -11,13 +11,13 @@ class Background extends StatelessWidget {
     Size size = MediaQuery.of(context).size;
     return Container(
       width: 420,
-      height: 360,
+      height: 300,
       child: Stack(
         children: <Widget>[
           Positioned(
             right: 0,          
             child: 
-            Image.asset('assets/images/Homepage_BG.png'),
+            Image.asset('assets/images/homepage_header.png'),
             ),
             child,
         ],

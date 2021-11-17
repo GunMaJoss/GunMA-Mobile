@@ -1,8 +1,8 @@
 import 'package:flutter/widgets.dart';
 // import 'package:gunma/HomePage/home_screen_backup.dart';
-import 'package:gunma/Login/login_screen.dart';
+// import 'package:gunma/Login1/login_screen.dart';
 import 'package:gunma/SplashScreen/splashscreen_page.dart';
-import 'package:gunma/SignUp/signup_screen.dart';
+// import 'package:gunma/Register/signup_screen.dart';
 // // import 'package:shop_app/screens/cart/cart_screen.dart';
 // // import 'package:shop_app/screens/complete_profile/complete_profile_screen.dart';
 // import 'package:shop_app/screens/details/details_screen.dart';

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:gunma/size_config.dart';
 
-const kPrimaryColor = Color(0xff23049d);
+const kPrimaryColor = Color(0xff3E83A8);
 const kPrimaryLightColor = Color(0xFFF1E6FF);
 const bPrimaryColor = Color(0xff202020);
 const bWhite = Color(0xffFFFAFA);
@@ -15,6 +15,7 @@ const bDarkText = Color(0xff3B3230);
 const kAnimationDuration = Duration(milliseconds: 100);
 const kPurple = Color (0xff471AFB);
 
+
 TextStyle boldPoppins = GoogleFonts.poppins(
   fontWeight: FontWeight.bold,
 );
@@ -23,6 +24,8 @@ TextStyle regularPoppins = GoogleFonts.poppins(
   fontWeight: FontWeight.w600,
   color: bBlack
 );
+
+
 
 
 const kSecondaryColor = Color(0xFF979797);

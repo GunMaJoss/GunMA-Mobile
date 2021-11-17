@@ -33,7 +33,7 @@ class CityCard extends StatelessWidget {
                     child: Container(
                       width: 50,
                       height: 30,
-                      decoration: BoxDecoration(color: kPurple, 
+                      decoration: BoxDecoration(color: kPrimaryColor, 
                         borderRadius: BorderRadius.only(
                           bottomLeft: Radius.circular(30),
                         )

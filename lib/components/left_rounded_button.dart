@@ -22,7 +22,7 @@ class LeftRoundedButton extends StatelessWidget {
       width: size.width * 0.35,
       height: size.height * 0.04,
       child: ClipRRect(
-        borderRadius: BorderRadius.circular(29),
+        borderRadius: BorderRadius.circular(8),
         child: FlatButton(
           padding: const EdgeInsets.all(2),
           color: color,
